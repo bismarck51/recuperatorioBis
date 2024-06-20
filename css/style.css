@@ -1,0 +1,156 @@
+.nombre{
+    background-color: aquamarine;
+    border-radius: 10px;
+    border-style: solid;
+}
+h3{
+    text-align: center;
+}
+.oreja1{
+
+    width: 92px;
+    height: 25px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color: black;
+    display: inline-block;
+    right: 25px;
+    border-radius: 10px;
+    position: absolute;
+    left: 278px;
+}
+.cara{
+    width: 90px;
+    height: 80px;
+    top: 83px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color: black;
+    display: inline-block;
+    right: 25px;
+    border-radius: 13px;
+    position: absolute;
+    left: 280px;
+}
+.ceja{
+    width: 85px;
+    height: 4px;
+    top: 110px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color: rgb(192, 133, 23);
+    border-top: 0ch;
+    border-radius: 13px;
+}
+.ojo1{
+    width: 20px;
+    height: 15px;
+    top: 8px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color: rgb(192, 133, 23);
+    display: inline-block;
+    right: 60px;
+    border-radius: 15px;
+    position: absolute;
+}
+.ojo2{
+    width: 20px;
+    height: 15px;
+    top: 8px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color:  rgb(192, 133, 23);
+    display: inline-block;
+    right: 8px;
+    border-radius: 15px;
+    position: absolute;
+}
+.ojo2{
+    width: 20px;
+    height: 15px;
+    top: 8px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color:  rgb(192, 133, 23);
+    display: inline-block;
+    right: 8px;
+    border-radius: 15px;
+    position: absolute;
+}
+.nariz{
+    width: 15px;
+    height: 40px;
+    top: 5px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color:  rgb(192, 133, 23);
+    display: inline-block;
+    right: 35px;
+    border-radius: 8px;
+    position: absolute;
+}
+.boca{
+    width: 28px;
+    height: 12px;
+    top: 53px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color:  rgb(192, 133, 23);
+    display: inline-block;
+    right: 28px;
+    border-radius: 8px;
+    position: absolute;
+}
+
+.cuerpo{
+    width: 115px;
+    height: 140px;
+    top: 165px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color: black;
+    display: inline-block;
+    right: 895px;
+    border-radius: 13px;
+    position: absolute;
+    
+}
+.man1{
+    width: 15px;
+    height: 75px;
+    top: 15px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color:  rgb(192, 133, 23);
+    display: inline-block;
+    right: 35px;
+    border-radius: 8px;
+    position: absolute;
+}
+.man2{
+    width: 15px;
+    height: 75px;
+    top: 15px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color:  rgb(192, 133, 23);
+    display: inline-block;
+    right: 65px;
+    border-radius: 8px;
+    position: absolute;
+}
+.mano1{
+    width: 30px;
+    height: 30px;
+    top: 50px;
+    background-color: antiquewhite;
+    border-style:solid;
+    border-color: black;
+    display: inline-block;
+    right: 65px;
+    border-radius: 8px;
+    position: absolute;
+}
+
+
